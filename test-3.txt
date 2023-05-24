@@ -1,1 +1,0 @@
-This change comes from "feature-test-3" feature branch.
